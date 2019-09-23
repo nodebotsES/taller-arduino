@@ -1,3 +1,5 @@
+<img src="img/arduino.svg" width="150" align="right"/>
+
 # taller-arduino
 
 Este es un taller basico de Arduino para [Madrid North Hackerspace](https://twitter.com/northhackers).
