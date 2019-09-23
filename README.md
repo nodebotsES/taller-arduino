@@ -1,4 +1,4 @@
-<img src="img/arduino.svg" width="150" align="right"/>
+<img src="img/arduino.svg" width="100" align="right"/>
 
 # taller-arduino
 
