@@ -11,9 +11,11 @@ Este es un taller basico de Arduino para [Madrid North Hackerspace](https://twit
 - Tablero 400 pin
 - Cables macho-macho
 - 5 LEDs de colores
-- Resistencias 330 Ohm
-- Resistencias 10,000 Ohm
+- Resistencia 330 Ohm
+- Resistencia 10,000 Ohm
 - Fotoresistencia (Sensor de luz)
+- Botones
+- Potenciómetro
 - Buzzer (Zumbador)
 - Servomotor 9G
 - TM36 (Sensor de temperatura)
