@@ -30,6 +30,10 @@ Luego hay que instalar el interfaz de Arduino:
 
 https://www.arduino.cc/en/main/software
 
+Y seleccionar la placa 'Arduino Nano' bajo el menu de 'Herramientas'.
+
+![img/ui.boards.png](img/ui.boards.png)
+
 ## Primer Desafio: Blink (Parpadeo)
 
 ![img/1.blink.png](img/1.blink.png)
