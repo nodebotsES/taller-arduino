@@ -28,5 +28,12 @@ https://www.arduino.cc/en/main/software
 
 ## Primer Desafio: Blink (Parpadeo)
 
+![img/1.blink.png](img/1.blink.png)
+
+## Segundo Desafio: Photoresistor (Sensor de luz)
+
+![img/2.photoresistor.png](img/2.photoresistor.png)
+
+
 
 
