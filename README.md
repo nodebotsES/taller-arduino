@@ -22,11 +22,11 @@ Este es un taller basico de Arduino para [Madrid North Hackerspace](https://twit
 
 ## Windows y OSX: Instalar Drivers USB CH340
 
-Hay que instalar los drivers en Windows y OSX. En Linux ya vienen instalados por defecto.
+Para conectar el Arduino al ordenador hay que instalar los drivers para [Windows]( drivers/CH340 windows.zip) y [OSX](drivers/CH34x_Install_V1.3.pkg). En Linux ya vienen instalados por defecto.
 
 ## Instalar el Arduino IDE
 
-Instalar el interfaz de Arduino:
+Luego hay que instalar el interfaz de Arduino:
 
 https://www.arduino.cc/en/main/software
 
